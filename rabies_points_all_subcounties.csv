@@ -1,0 +1,377 @@
+ADM2_EN,county,Sub_County,Ward,Latitude,Longitude,Report_Dat,Disease_Co,Species_Af,Number_at_,Number_Sick,Number_Dea,Number_Sla,Number_Des,Number_Hum,Number_Vac,Incidence
+Ainabkoi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ainamoi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aldai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Alego Usonga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Awendo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bahati,Nakuru,Subukia,Kabazi,-0.1575164,36.1282293,5/17/2024,Rabies,Dogs,0,0,0,0,0,0,4,0
+Balambala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Banissa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baringo Central,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baringo North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baringo South,Baringo,Baringo South,Marigat,0.454953333,35.86435667,5/1/2024,Rabies,Dogs,40,2,1,0,1,0,0,0.047619048
+Belgut,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bobasi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bomachoge Borabu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bomachoge Chache,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bomet Central,Bomet,Bomet Central,Mutarakwa,-0.7735254,35.258968,4/25/2024,Rabies,Cattle,3,1,0,0,0,0,3,0.25
+Bomet Central,Bomet,Bomet Central,Mutarakwa,-0.7744216,35.2672059,8/26/2024,Rabies,Dogs,2,2,1,0,0,0,2,0.5
+Bomet East,Bomet,Bomet East,Kipreres,-0.9303007,35.418832,1/1/2024,Rabies,Dogs,3,1,0,0,0,0,0,0.25
+Bomet East,Bomet,Bomet East,Chemaner,-0.7971588,35.4828141,3/24/2024,Rabies,Dogs,16,1,0,0,0,1,0,0.058823529
+Bonchari,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bondo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Borabu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Budalangi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bumula,Bungoma,Bumula,Khasoko,0.5360053,34.4744053,1/2/2024,Rabies,Dogs,100,1,1,0,0,5,0,0.00990099
+Bumula,Bungoma,Bumula,South Bukusu,0.4808534,34.5152756,12/12/2024,Rabies,Cattle,2,1,0,0,0,0,0,0.333333333
+Bumula,Bungoma,Bumula,South Bukusu,0.4932541,34.5208159,5/23/2024,Rabies,Cattle,3,1,0,0,0,0,0,0.25
+Bura,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Buret,Kericho,Belgut,Kabianga,-0.4872353,35.1239556,4/21/2024,Rabies,Cattle,10,1,0,0,0,1,0,0.090909091
+Butere,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Butula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Buuri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cental Imenti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Changamwe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chepalungu,Bomet,Chepalungu,Chebunyo,-0.9424165,35.1713895,6/20/2024,Rabies,Cattle,50,1,0,0,0,15,8,0.019607843
+Chepalungu,Bomet,Chepalungu,Nyangores,-0.780241,35.2956891,11/24/2024,Rabies,Cattle,25,1,0,0,0,0,0,0.038461538
+Cherangany,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chesumei,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dadaab,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dagoretti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dujis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eldama Ravine,Baringo,Eldama Ravine,Koibatek,0.01309,35.82311833,5/20/2024,Rabies,Cattle,8,1,1,0,1,0,8,0.111111111
+Eldas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Embakasi Central,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Embakasi East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Embakasi North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Embakasi South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Embakasi West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Emgwen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Emuhaya,Vihiga,Emuhaya,Central Bunyore,0.0498155,34.5979969,1/5/2024,Rabies,Cattle,20,0,0,0,0,0,10,0
+Emuhaya,Vihiga,Emuhaya,West Bunyore,0.0712239,34.5775834,1/19/2024,Rabies,Cattle,18,1,0,0,0,0,0,0.052631579
+Emurua Dikirr,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Endebess,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fafi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Funyula,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gachoka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Galole,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ganze,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Garsen,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gatanga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gatundu North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gatundu South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gem,Kakamega,Butere,Marama South,0.1461294,34.4251972,1/11/2024,Rabies,Cattle,2,0,0,0,0,0,2,0
+Gem,Siaya,Gem,West Gem,0.055563,34.435938,2/2/2024,Rabies,Dogs,3,1,0,0,1,0,0,0.25
+Gem,Siaya,Gem,Yala Township,0.094081,34.522984,2/5/2024,Rabies,Dogs,2,1,0,0,1,0,0,0.333333333
+Gichugu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gilgil,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Githunguri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hamisi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Homa Bay,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Igembe Central,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Igembe North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Igembe South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ijara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ikolomani,Kakamega,Ikolomani,Idakho East,0.1486952,34.7452464,9/9/2024,Rabies,Dogs,5,1,0,0,0,1,0,0.166666667
+Ikolomani,Kakamega,Ikolomani,Idakho East,0.1486952,34.7452464,9/9/2024,Rabies,Dogs,1,1,0,0,0,1,0,0.5
+Isiolo North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Isiolo South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Jomvu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Juja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kabete,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kabondo Kasipul,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kabuchai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kacheliba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kaiti,Makueni,Kaiti,Ilima,-1.852986,37.4439599,1/5/2024,Rabies,Dogs,1,2,0,0,2,0,1,0.666666667
+Kaiti,Makueni,Kaiti,Ukia,-1.804066667,37.49919,11/5/2024,Rabies,Cattle,0,1,0,1,1,0,2,1
+Kaiti,Makueni,Makueni,Wote,-1.7803587,37.4739748,3/6/2024,Rabies,Dogs,20,1,5,0,3,0,0,0.047619048
+Kaiti,Makueni,Kaiti,Ukia,-1.741553333,37.57633333,12/9/2024,Rabies,Dogs,2,0,1,0,0,0,0,0
+Kaiti,Makueni,Kaiti,Ukia,-1.78926,37.47045833,11/27/2024,Rabies,Cattle,0,0,0,0,0,0,0,0
+Kajiado Central,Kajiado,Kajiado Central,Ildamat,-1.839145,36.78436667,5/28/2024,Rabies,Dogs,10,1,0,0,0,0,0,0.090909091
+Kajiado East,Kajiado,Kajiado North,Oloolua,-1.4315082,36.7332906,1/9/2024,Rabies,Dogs,3,1,0,0,0,0,0,0.25
+Kajiado North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kajiado South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kajiado West,Kajiado,Kajiado West,Magadi,-1.8941133,36.5870287,8/27/2024,Rabies,Dogs,1,1,0,0,0,0,1,0.5
+Kaloleni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kamukunji,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kandara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kanduyi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kangema,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kangundo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kapenguria,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kapseret,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Karachuonyo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kasarani,Nairobi,Kasarani,Ruai,-1.2723854,37.0019499,4/1/2024,Rabies,Goats,3,1,0,0,1,0,0,0.25
+Kasarani,Nairobi,Embakasi East,Mihango,-1.274191667,36.99077333,12/5/2024,Rabies,Dogs,1,1,0,0,1,0,0,0.5
+Kasarani,Nairobi,Kasarani,Ruai,-1.2379698,36.9902019,4/15/2024,Rabies,Dogs,6,1,0,0,0,0,0,0.142857143
+Kasarani,Nairobi,Kasarani,Ruai,-1.2739787,36.9935586,2/19/2024,Rabies,Dogs,2,1,2,0,0,0,0,0.333333333
+Kasarani,Nairobi,Kasarani,Ruai,-1.2735973,36.9932693,2/19/2024,Rabies,Dogs,4,1,1,0,0,0,4,0.2
+Kasipul,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kathiani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Keiyo North,Elgeyo/Marakwet,Keiyo North,Kapchemutwa,0.6709438,35.5071158,2/4/2024,Rabies,Cattle,5,1,0,0,0,NA,5,0.166666667
+Keiyo North,Elgeyo/Marakwet,Keiyo North,Tambach,0.669457,35.501697,3/20/2024,Rabies,Cattle,4,1,0,0,0,0,0,0.2
+Keiyo North,Elgeyo/Marakwet,Keiyo North,Kamariny,0.6379691,35.4821295,2/24/2024,Rabies,Cattle,3,0,1,0,0,0,0,0
+Keiyo South,Elgeyo/Marakwet,Keiyo South,Chepkorio,0.371752,35.5423573,2/9/2024,Rabies,Cattle,23,1,0,0,0,0,23,0.041666667
+Keiyo South,Elgeyo/Marakwet,Keiyo South,Kabiemit,0.3451509,35.5375681,2/20/2024,Rabies,Cattle,18,1,1,0,0,0,18,0.052631579
+Kesses,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Khwisero,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kiambaa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kiambu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kibra,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kibwezi East,Makueni,Kibwezi East,Thange,-2.462502,37.95426567,12/11/2024,Rabies,Cattle,1,1,0,0,0,6,1,0.5
+Kibwezi West,Makueni,Kibwezi West,Kikumbulyu North,-2.207443383,38.05536807,5/8/2024,Rabies,Dogs,3,1,0,0,0,7,1,0.25
+Kibwezi West,Makueni,Kibwezi West,Makindu,-2.152033,37.774416,2/9/2024,Rabies,Cattle,1,2,0,0,0,0,4,0.666666667
+Kibwezi West,Makueni,Kibwezi West,Makindu,-2.1699405,37.7843752,2/9/2024,Rabies,Dogs,0,4,0,0,0,0,4,1
+Kibwezi West,Makueni,Kibwezi West,Makindu,-2.2208657,37.7441976,1/13/2024,Rabies,Dogs,5,0,1,0,1,0,8,0
+Kieni,Nyeri,Kieni,Mweiga,-0.3404648,36.87867,5/18/2024,Rabies,Goats,0,1,0,0,1,0,0,1
+Kigumo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kiharu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kikuyu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kilgoris,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kilifi North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kilifi South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kilimani,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kilome,Makueni,Kilome,Kasikeu,-1.94330444,37.3620489,4/1/2024,Rabies,Dogs,1,1,0,0,0,0,1,0.5
+Kilome,Makueni,Kilome,Kasikeu,-1.94720002,37.38477785,12/11/2024,Rabies,Dogs,5,1,0,0,0,0,0,0.166666667
+Kilome,Makueni,Kilome,Kasikeu,-1.99357911,37.35437437,6/26/2024,Rabies,Cattle,300,1,1,0,1,0,0,0.003322259
+Kilome,Makueni,Kilome,Kasikeu,-1.9596155,37.3137483,2/28/2024,Rabies,Dogs,2,2,0,0,0,0,2,0.5
+Kimilili,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kiminini,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kinango,Kwale,Kinango,Mackinnon Road,-3.7328273,39.0474669,3/3/2024,Rabies,Dogs,2,1,0,0,0,15,0,0.333333333
+Kinangop,Nyandarua,Kinangop,Njabini/Kiburu,-0.730595,36.6483541,3/2/2024,Rabies,Cattle,4,1,0,0,1,0,0,0.2
+Kipipiri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kipkelion East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kipkelion West,Kericho,Kipkelion West,Kamasian,-0.1667216,35.4595325,6/23/2024,Rabies,Dogs,3,0,1,0,0,0,3,0
+Kirinyaga Central,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kisauni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kisumu Central,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kisumu East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kisumu West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitui Central,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitui East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitui Rural,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitui South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitui West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitutu Chache North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitutu Chache South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kitutu Masaba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Konoin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuresoi North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuresoi South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuria East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kuria West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Kwanza,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lafey,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lagdera,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laikipia East,Laikipia,Laikipia West,Igwamiti,0.0407448,36.3594585,3/4/2024,Rabies,Dogs,2,1,0,0,0,0,0,0.333333333
+Laikipia North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laikipia West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Laisamis,Makueni,Kibwezi West,Makindu,2.153874104,37.49386089,8/7/2024,Rabies,Dogs,3,0,0,0,0,0,3,0
+Laisamis,Marsabit,Laisamis,Laisamis,1.4196913,37.7305784,1/22/2024,Rabies,Dogs,100,1,1,0,1,4,0,0.00990099
+Laisamis,Marsabit,Laisamis,Laisamis,1.4196913,37.7305784,1/22/2024,Rabies,Dogs,120,11,1,0,1,4,0,0.083969466
+Laisamis,Marsabit,Laisamis,Kargi/South Horr,2.509395,37.57384,5/29/2024,Rabies,Other,32,8,2,0,2,1,0,0.2
+Laisamis,Samburu,Samburu North,Nyiro,2.0978815,36.9203463,1/28/2024,Rabies,Cattle,3,1,0,0,1,0,0,0.25
+Lamu East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lamu West,Lamu,Lamu West,Bahari,-2.3811449,40.7017552,8/21/2024,Rabies,Sheep,78,0,4,4,6,12,0,0
+Lamu West,Lamu,Lamu West,Hongwe,-2.38523,40.68006333,7/24/2024,Rabies,Cattle,2,1,1,0,0,0,0,0.333333333
+Lamu West,Lamu,Lamu West,Bahari,-2.3851892,40.6800942,7/24/2024,Rabies,Cattle,2,0,1,0,0,0,2,0
+Langata,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lari,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Likoni,Mombasa,Likoni,Timbwani,-4.112918,39.6471391,5/3/2024,Rabies,Dogs,6,6,0,0,6,NA,0,0.5
+Likuyani,Kakamega,Likuyani,Sango,0.7416925,35.0895663,1/11/2024,Rabies,Dogs,5,2,1,0,0,1,0,0.285714286
+Likuyani,Kakamega,Likuyani,Likuyani,0.697478333,35.09492667,3/24/2024,Rabies,Cattle,5,1,0,0,0,0,0,0.166666667
+Limuru,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Loima,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Luanda,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lugari,Kakamega,Lugari,Lwandeti,0.6304733,34.8543113,6/5/2024,Rabies,Cattle,0,1,0,0,1,0,0,1
+Lugari,Kakamega,Lugari,Lugari,0.6319735,34.9129278,1/11/2024,Rabies,Cattle,9,1,0,0,0,0,0,0.1
+Lugari,Kakamega,Lugari,Chevaywa,0.4934176,34.6982644,10/25/2024,Rabies,Cattle,2,1,0,0,0,0,0,0.333333333
+Lunga Lunga,Kwale,Lungalunga,Vanga,-4.5285254,39.1302148,8/19/2024,Rabies,Dogs,3,1,0,0,1,NA,0,0.25
+Lurambi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Maara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Machakos Town,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Magarini,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Makadara,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Makueni,Makueni,Makueni,Kathonzweni,-1.9205342,37.7325716,4/2/2024,Rabies,Dogs,5,1,1,0,1,0,5,0.166666667
+Makueni,Makueni,Makueni,Kathonzweni,-1.979585,37.72829833,6/3/2024,Rabies,Cattle,18,1,1,0,0,0,18,0.052631579
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.850719,37.644813,4/5/2024,Rabies,Dogs,2,1,0,0,1,1,0,0.333333333
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.781929,37.592242,5/7/2024,Rabies,Goats,8,1,0,0,1,NA,8,0.111111111
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.841527,37.6105478,5/9/2024,Rabies,Dogs,3,1,0,0,1,NA,0,0.25
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.83856,37.61829333,5/9/2024,Rabies,Dogs,12,1,0,0,1,NA,12,0.076923077
+Makueni,Makueni,Makueni,Wote,-1.79172,37.59991,12/11/2024,Rabies,Dogs,2,1,0,0,0,2,1,0.333333333
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.866993333,37.66493167,3/21/2024,Rabies,Goats,5,1,0,0,0,0,1,0.166666667
+Makueni,Makueni,Makueni,Mbitini,-1.9706223,37.4379554,2/26/2024,Rabies,Goats,6,1,0,0,0,0,6,0.142857143
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.875865,37.545355,5/26/2024,Rabies,Dogs,8,2,0,0,2,2,68,0.2
+Makueni,Makueni,Makueni,Muvau/Kikuumini,-1.861108,37.585054,5/28/2024,Rabies,Donkey,3,1,0,0,1,NA,8,0.25
+Makueni,Makueni,Makueni,Kathonzweni,-1.97957641,37.72836322,5/28/2024,Rabies,Cattle,18,1,1,0,1,0,18,0.052631579
+Makueni,Makueni,Makueni,Mbitini,-1.9611478,37.4432928,9/29/2024,Rabies,Donkey,0,1,0,0,0,0,0,1
+Malava,Kakamega,Malava,Chemuche,0.41880575,34.92838362,5/6/2024,Rabies,Cattle,8,1,0,0,0,0,7,0.111111111
+Malava,Kakamega,Malava,Butali/Chegulo,0.4813786,34.843618,1/11/2024,Rabies,Dogs,50,1,1,0,1,0,0,0.019607843
+Malava,Kakamega,Malava,Manda-Shivanga,0.481729167,34.89717397,3/11/2024,Rabies,Cattle,3,1,0,0,1,0,0,0.25
+Malava,Kakamega,Malava,Chemuche,0.4276958,34.92014082,4/20/2024,Rabies,Cattle,3,1,0,0,0,0,0,0.25
+Malindi,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mandera East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mandera North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mandera South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mandera West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manyatta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Maragwa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Marakwet East,Elgeyo/Marakwet,Marakwet East,Sambirir,1.07092057,35.57770709,6/1/2024,Rabies,Cattle,2,1,0,0,0,0,0,0.333333333
+Marakwet East,Elgeyo/Marakwet,Marakwet East,Sambirir,1.063221667,35.58672333,6/7/2024,Rabies,Cattle,5,1,0,0,0,1,5,0.166666667
+Marakwet East,Elgeyo/Marakwet,Marakwet East,Sambirir,1.0694073,35.5816865,3/22/2024,Rabies,Cattle,7,2,0,0,0,0,0,0.222222222
+Marakwet East,Elgeyo/Marakwet,Marakwet East,Sambirir,1.0657015,35.5840798,2/28/2024,Rabies,Cattle,17,0,0,0,0,0,0,0
+Marakwet West,Elgeyo/Marakwet,Marakwet West,Cherang'Any/Chebororwa,0.9549014,35.4019847,4/10/2024,Rabies,Cattle,1,1,0,0,1,NA,3,0.5
+Marakwet West,Elgeyo/Marakwet,Marakwet West,Lelan,1.0246311,35.4458344,2/20/2024,Rabies,Cattle,1,1,1,0,0,0,20,0.5
+Masinga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matayos,Busia,Matayos,Busibwabo,0.46850362,34.21510049,5/20/2024,Rabies,Dogs,0,1,0,0,0,0,0,1
+Mathare,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mathioya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mathira,Nyeri,Kieni,Thegu River,-0.3635775,37.0744097,7/2/2024,Rabies,Dogs,2,0,1,0,1,0,0,0
+Matuga,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matungu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Matungulu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mavoko,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mbooni,Makueni,Mbooni,Kiteta/Kisau,-1.6218537,37.5626273,5/7/2024,Rabies,Goats,12,1,0,10,0,0,0,0.076923077
+Mbooni,Makueni,Mbooni,Kiteta/Kisau,-1.6113343,37.5716016,5/9/2024,Rabies,Goats,15,1,1,1,1,0,15,0.0625
+Mbooni,Makueni,Mbooni,Waia-Kako,-1.7357344,37.6394937,4/11/2024,Rabies,Dogs,30,20,0,0,0,0,20,0.4
+Mogotio,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moiben,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Molo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mosop,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Moyale,Marsabit,Moyale,Heillu/Manyatta,3.52462858,39.08868837,6/4/2024,Rabies,Donkey,15,1,0,0,0,0,0,0.0625
+Moyale,Marsabit,Moyale,Obbu,3.5636792,38.6452829,1/9/2024,Rabies,Dogs,0,1,0,0,0,0,0,1
+Moyale,Marsabit,Moyale,Golbo,3.149389,39.240794,1/10/2024,Rabies,Donkey,185,1,0,0,3,2,0,0.005376344
+Moyale,Marsabit,Moyale,Heillu/Manyatta,3.476016667,39.13101333,6/11/2024,Rabies,Donkey,100,8,0,0,0,0,0,0.074074074
+Moyale,Marsabit,Moyale,Sololo,3.592529,38.623975,1/13/2024,Rabies,Cattle,16,1,0,0,0,0,0,0.058823529
+Moyale,Marsabit,Moyale,Golbo,3.13488485,39.25624094,1/15/2024,Rabies,Dogs,2,0,2,0,2,0,2,0
+Moyale,Marsabit,Moyale,Uran,3.489085,38.241528,1/23/2024,Rabies,Cattle,2,0,0,0,0,0,0,0
+Msambweni,Kwale,Msambweni,Kinondo,-4.370455,39.52432833,12/23/2024,Rabies,Dogs,1,1,0,0,1,NA,0,0.5
+Mt. Elgon,Bungoma,Mt. Elgon,Chepyuk,0.8374625,34.5602802,3/9/2024,Rabies,Donkey,1,1,0,0,0,0,0,0.5
+Muhoroni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mukurweni,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mumias East,Kakamega,Butere,Marama Central,0.2900784,34.5131979,1/11/2024,Rabies,Dogs,2000,2,0,0,0,2,2,0.000999001
+Mumias East,Kakamega,Butere,Marama West,0.3179822,34.5703165,1/11/2024,Rabies,Cattle,2,1,0,0,0,0,0,0.333333333
+Mumias West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mvita,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mwala,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mwatate,Taita Taveta,Mwatate,Mwatate,-3.4528213,38.3809315,8/4/2024,Rabies,Cattle,0,1,0,0,0,NA,0,1
+Mwatate,Taita Taveta,Mwatate,Bura,-3.4952933,38.3173958,8/5/2024,Rabies,Cattle,0,0,0,0,0,0,0,0
+Mwatate,Taita Taveta,Voi,Ngolia,-3.3655538,38.4348728,7/8/2024,Rabies,Cattle,0,1,0,0,0,0,0,1
+Mwatate,Taita Taveta,Mwatate,Bura,-3.4877988,38.3154196,7/20/2024,Rabies,Cattle,0,0,0,0,0,0,0,0
+Mwatate,Taita Taveta,Mwatate,Bura,-3.4565222,38.3137728,7/20/2024,Rabies,Cattle,0,0,0,0,0,0,0,0
+Mwea,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mwingi East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mwingi North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Mwingi West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Naivasha,Nakuru,Gilgil,Malewa West,-0.7080188,36.4754874,2/5/2024,Rabies,Cattle,0,1,0,0,0,0,0,1
+Nakuru Town East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nakuru Town West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nambale,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nandi Hills,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Narok East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Narok North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Narok South,Narok,Narok South,Loita,-1.7092868,35.8114625,5/5/2024,Rabies,Dogs,50,2,0,0,0,0,0,0.038461538
+Narok South,Narok,Narok South,Loita,-1.8641834,35.8305522,4/6/2024,Rabies,Dogs,12,1,0,0,0,0,0,0.076923077
+Narok South,Narok,Narok South,Loita,-1.9051072,35.7394938,4/17/2024,Rabies,Dogs,23,2,0,0,1,0,23,0.08
+Narok South,Narok,Narok South,Loita,-1.8549705,35.8506596,7/18/2024,Rabies,Dogs,15,3,1,0,1,0,4,0.166666667
+Narok West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Navakholo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ndaragwa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ndhiwa,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ndia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nithi,Tharaka-Nithi,Chuka/Igambang'Ombe,Mariani,-0.3454905,37.7163997,9/11/2024,Rabies,Dogs,0,0,0,0,0,0,4,0
+Nithi,Tharaka-Nithi,Chuka/Igambang'Ombe,Magumoni,-0.346435,37.62342,9/20/2024,Rabies,Cattle,0,0,0,0,0,0,0,0
+Njoro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+North Horr,Marsabit,North Horr,Maikona,3.132333,37.4276131,6/13/2024,Rabies,Donkey,8,4,2,0,2,2,0,0.333333333
+North Horr,Marsabit,North Horr,Turbi,3.3020072,38.3773119,1/15/2024,Rabies,Cattle,3,0,1,0,1,0,3,0
+North Horr,Marsabit,North Horr,Illeret,4.3007641,36.2431682,2/17/2024,Rabies,Dogs,3,2,0,0,2,0,1,0.4
+North Horr,Marsabit,North Horr,Turbi,3.5115751,38.0996672,1/20/2024,Rabies,Dogs,70,1,1,0,1,2,20,0.014084507
+North Horr,Marsabit,North Horr,Turbi,3.2970806,38.3750085,6/28/2024,Rabies,Donkey,3,2,1,0,0,0,0,0.4
+North Imenti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+North Mugirango,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nyakach,Kericho,Sigowet/Soin,Kaplelartet,-0.2790495,34.9794259,3/22/2024,Rabies,Cattle,3,1,0,0,0,NA,0,0.25
+Nyali,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nyando,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nyaribari Chache,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nyaribari Masaba,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nyatike,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nyeri Town,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ol Jorok,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ol Kalou,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Othaya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Pokot South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rabai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rangwe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rarieda,Siaya,Rarieda,North Uyoma,-0.2808652,34.3707591,6/16/2024,Rabies,Cattle,6,0,1,0,1,0,6,0
+Rongai,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Rongo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Roysambu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ruaraka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ruiru,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Runyenjes,Embu,Runyenjes,Kagaari North,-0.430313333,37.56818167,8/9/2024,Rabies,Goats,2,1,0,0,1,0,0,0.333333333
+Runyenjes,Embu,Runyenjes,Kyeni North,-0.4281305,37.5649419,7/28/2024,Rabies,Cattle,20,0,2,0,0,0,20,0
+Sabatia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saboti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Saku,Marsabit,Saku,Karare,2.3130791,37.9355786,8/16/2024,Rabies,Camel,31,1,1,0,1,0,30,0.03125
+Saku,Marsabit,Saku,Marsabit Central,2.343346017,37.97630013,4/19/2024,Rabies,Dogs,120,1,0,0,0,0,0,0.008264463
+Saku,Marsabit,Saku,Karare,2.318542,37.947075,7/20/2024,Rabies,Camel,30,1,1,0,1,0,0,0.032258065
+Saku,Marsabit,Saku,Karare,2.3130895,37.9352474,8/24/2024,Rabies,Camel,50,50,1,0,1,0,50,0.5
+Samburu East,Samburu,Samburu East,Wamba West,0.8226667,37.0011117,6/4/2024,Rabies,Dogs,3,1,0,0,0,NA,0,0.25
+Samburu East,Samburu,Samburu East,Wamba East,1.029607,37.07112,1/31/2024,Rabies,Goats,8,1,0,0,1,0,0,0.111111111
+Samburu East,Samburu,Samburu East,Wamba East,0.9789289,37.3217682,1/31/2024,Rabies,Cattle,0,0,0,0,0,0,0,0
+Samburu North,Samburu,Samburu North,El-Barta,1.7023339,36.7969293,4/18/2024,Rabies,Camel,29,1,0,0,1,0,0,0.033333333
+Samburu North,Samburu,Samburu North,El-Barta,1.7540516,36.9441988,1/28/2024,Rabies,Goats,1,1,0,0,1,0,0,0.5
+Samburu West,Samburu,Samburu West,Poro,0.9558628,36.760571,1/31/2024,Rabies,Cattle,3,1,0,0,0,0,0,0.25
+Seme,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Shinyalu,Kakamega,Shinyalu,Murhanda,0.254121667,34.80726667,3/31/2024,Rabies,Dogs,3,1,0,0,0,1,2,0.25
+Siakago,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sigor,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sigowet/Soin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sirisia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sotik,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Imenti,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+South Mugirango,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Soy,Uasin Gishu,Soy,Kuinet/Kapsuswa,0.6299984,35.3208202,2/17/2024,Rabies,Cattle,1,0,0,0,0,0,1,0
+Starehe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suba North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suba South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Subukia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suna East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Suna West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tarbaj,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Taveta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Teso North,Busia,Teso North,Malaba South,0.622595,34.3423131,4/28/2024,Rabies,Dogs,1,1,0,0,0,1,1,0.5
+Teso South,Busia,Teso South,Amukura West,0.576365,34.19927167,4/3/2024,Rabies,Cattle,6,1,0,1,1,1,0,0.142857143
+Teso South,Busia,Teso North,Malaba South,0.5701904,34.29928,1/5/2024,Rabies,Cattle,2,1,0,0,0,0,0,0.333333333
+Teso South,Busia,Teso South,Amukura East,0.5454041,34.3065693,1/5/2024,Rabies,Goats,7,1,0,0,1,1,0,0.125
+Teso South,Busia,Teso South,Amukura Central,0.5167632,34.3079577,11/16/2024,Rabies,Cattle,9,1,1,0,0,0,0,0.1
+Tetu,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tharaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Thika Town,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tiaty,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tigania East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tigania West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tinderet,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tongaren,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turbo,Uasin Gishu,Turbo,Kiplombe,0.5688746,35.2661762,5/18/2024,Rabies,Cattle,5,1,1,0,0,0,5,0.166666667
+Turkana Central,Turkana,Turkana Central,Kanamkemer,3.102115,35.60297,8/16/2024,Rabies,Sheep,30,1,0,0,0,11,0,0.032258065
+Turkana East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkana North,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkana South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Turkana West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ugenya,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ugunja,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Uriri,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vihiga,Vihiga,Sabatia,Lyaduywa/Izava,0.083853,34.7223459,7/31/2024,Rabies,Dogs,1,1,1,0,0,0,0,0.5
+Voi,Taita Taveta,Voi,Ngolia,-3.3219951,38.5718307,3/28/2024,Rabies,Cattle,0,1,0,0,0,0,0,1
+Wajir East,Wajir,Wajir East,Wagberi,1.7468355,40.0730811,8/30/2024,Rabies,Sheep,200,5,0,0,0,0,0,0.024390244
+Wajir North,Marsabit,Moyale,Heillu/Manyatta,3.420316,39.325975,11/12/2024,Rabies,Dogs,5,7,0,0,0,0,0,0.583333333
+Wajir South,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Wajir West,Wajir,Wajir West,Ganyure/Wagalla,1.64311,39.92049,11/24/2024,Rabies,Goats,423,4,2,0,0,1,0,0.009367681
+Webuye East,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Webuye West,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+West Mugirango,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Westlands,Machakos,Kathiani,Kathiani Central,-1.2594348,36.7311899,8/2/2024,Rabies,Dogs,5,0,0,0,0,0,0,0
+Wundanyi,Taita Taveta,Wundanyi,Wumingu/Kishushe,-3.3830624,38.3348495,6/11/2024,Rabies,Cattle,2,1,0,0,0,NA,0,0.333333333
+Wundanyi,Taita Taveta,Wundanyi,Wundanyi/Mbale,-3.4027223,38.3621734,7/27/2024,Rabies,Cattle,1,1,0,0,0,0,0,0.5
+Yatta,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
